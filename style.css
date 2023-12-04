@@ -1,0 +1,9 @@
+@font-face {
+  font-family: snigdha;
+  src: url(./lipighar/LiAlinurSiratUnicode.woff2) format(woff2);
+  src: url(./lipighar/LiAlinurSiratUnicode.woff) format(woff);
+}
+
+* {
+  font-family: snigdha;
+}
